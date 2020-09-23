@@ -13,10 +13,17 @@ I then made an REST API to send request to that database and generate responses 
 
 ## Project Structure
 * Assignment
- * api - Contains files related to models and routes of the REST API
-  * model - contains courses.js which describes the model of the course info.
-  * routes - contains courses.js which describes the endpoints for the api.
- * scrapy - Contains files related to web scraping part
+  * api - Contains files related to models and routes of the REST API
+    * model - contains courses.js which describes the model of the course info.
+    * routes - contains courses.js which describes the endpoints for the api.
+  * scrapy - Contains files related to web scraping part
+    * quotetutorial/quotetutorial - contains web spider which helped in scraping the courses info.
+      * items.py
+      * middleware.py
+      * pipelines.py
+      * settings.py
+      * spiders
+        * quotes_spiders.py
     
   
 
