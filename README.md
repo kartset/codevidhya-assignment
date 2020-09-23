@@ -13,6 +13,8 @@ I then made an REST API to send request to that database and generate responses 
 
 ## Project Structure
 * Assignment
+  * api - Contains files related to models and routes of the REST API
+    * model - 
   
 
 ## To generate the results, follow these steps :
