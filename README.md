@@ -18,7 +18,8 @@ I then made an REST API to send request to that database and generate responses 
 ## To generate the results, follow these steps :
 
 1) Clone this repo.  
-2) Navigate to the quotetutorial directory :-
+
+2) Navigate to the quotetutorial directory :  
 ``` $ cd scrapy/quotetutorial```
 
 3)Execute the following terminal command. It will create a mongodb collection which contains all the scraped results.  
