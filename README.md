@@ -46,6 +46,6 @@ I then made an REST API to send request to that database and generate responses 
 6)To run the REST API :-  
 ``` $ npm start```  
 
-7) Use endpoints /courses and /courses/courseId using postman to generate results in json format.
+7)Use endpoints /courses and /courses/courseId using postman to generate results in json format.
 
-8) You can do get request for /courses and /courses/courseId to get all the courses and course for a particular ID from the database.
+8)You can do get request for /courses and /courses/courseId to get all the courses and course for a particular ID from the database.
