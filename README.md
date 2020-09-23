@@ -13,8 +13,11 @@ I then made an REST API to send request to that database and generate responses 
 
 ## Project Structure
 * Assignment
-  * api - Contains files related to models and routes of the REST API
-    * model - 
+ * api - Contains files related to models and routes of the REST API
+  * model - contains courses.js which describes the model of the course info.
+  * routes - contains courses.js which describes the endpoints for the api.
+ * scrapy - Contains files related to web scraping part
+    
   
 
 ## To generate the results, follow these steps :
